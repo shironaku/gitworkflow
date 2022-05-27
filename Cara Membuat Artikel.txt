@@ -14,6 +14,11 @@ Langkah-langkah Membuat Artikel
 
 Tips Membuat Artikel
 1. Buat artikel yang nyaman dibaca pengguna
+beberapa tips membuat artikel yang nyaman untuk pengguna, diantaranya :
+ a. Batasi isi setiap paragraf sekitar 3 sampai 4 baris saja. Hal ini     bertujuan untuk menghindari isi paragraf yang terlalu bertele-tele.
+ b. Buat paragraf yang padat dan kaya akan informasi agar pembaca betah     scroll sampai akhir.
+ c. Beri sentuhan font style agar tulisan tidak terlalu monoton
+ d. Gunakan bahasa yang sesuai dan mudah dipahami
 2. Kenali niche dari topik yang Anda bawakan
 3. Tentukan target pembaca
 
